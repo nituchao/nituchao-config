@@ -1,0 +1,28 @@
+;; Emacs-W3 HTTP cookies file
+;; Automatically generated file!!! DO NOT EDIT!!!
+
+(setq url-cookie-storage
+ '(("tieba.baidu.com"
+  [url-cookie "TIEBAUID" "cb23caae14130a0d384a57f1" "31-Dec-2020 15:59:59.00 GMT" "/" "tieba.baidu.com" nil]
+  [url-cookie "TIEBA_USERTYPE" "8def7439705918571006f325" "31-Dec-2020 15:59:59.00 GMT" "/" "tieba.baidu.com" nil])
+ ("zhihu.com"
+  [url-cookie "q_c1" "3354840719174de4b8ecaa1adaddce58|1459390365000|1459390365000" "Sun, 31 Mar 2019 02:12:45 GMT" "/" "zhihu.com" nil]
+  [url-cookie "l_cap_id" "OTgyYTA4NDdkNTY2NGEwZjg4MGMwZDNmYjAyZTUwNDI=|1459390365|043a5cbd4f8ea492103609d178dc24b435146791" "Sat, 30 Apr 2016 02:12:45 GMT" "/" "zhihu.com" nil]
+  [url-cookie "cap_id" "MmZkYTVlNjBiZmQ4NDJkMWJkZTFkZjFmM2Y0ZDU5ODQ=|1459390365|b70f16e1ad096cd99f92218ec00ef2eedf655429" "Sat, 30 Apr 2016 02:12:45 GMT" "/" "zhihu.com" nil])
+ (".news.baidu.com"
+  [url-cookie "LOCALGX" "%u5317%u4EAC%7C%30%7C%u5317%u4EAC%7C%30" "07-Apr-2016 02:14:03.00 GMT" "/" ".news.baidu.com" nil])
+ (".baidu.com"
+  [url-cookie "version" "1" "25 May 16 01:30:19 [GMT]" "/" ".baidu.com" nil]
+  [url-cookie "max-age" "31536000" "25 May 16 01:30:19 [GMT]" "/" ".baidu.com" nil]
+  [url-cookie "BAIDUID" "A617A7F783B87266930C223B238F2482:FG=1" "25 May 16 01:30:19 [GMT]" "/" ".baidu.com" nil]))
+)
+(setq url-cookie-secure-storage
+ '(("hub.docker.com"
+  [url-cookie "Max-Age" "31449600" "18-Jul-2016 11:57:39.00 GMT" "/" "hub.docker.com" t]
+  [url-cookie "csrftoken" "0ZZyZHgk457zApqHXLSDfC0F5m1SCJfo" "18-Jul-2016 11:57:39.00 GMT" "/" "hub.docker.com" t]))
+)
+
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; End:

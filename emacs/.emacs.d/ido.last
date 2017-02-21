@@ -1,0 +1,336 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/liang/Documents/clouds/nutsCloud/liang/github/emacs/.emacs.d/extend/" . "color-theme-solarized/")
+ ("/Users/liang/Documents/codes/python/" . "ml/")
+ ("/Users/liang/Documents/codes/" . "python/")
+ ("/Users/liang/Documents/workspace/python/" . "ml/")
+ ("/Users/liang/Documents/workspace/micodes/hbase-table-creator/" . "miui_sec/")
+ ("/Users/liang/.emacs.d/extend/org-html-themes/" . "setup/")
+ ("/Users/liang/Notes/" . "gtd/")
+ ("/Users/liang/Documents/clouds/nutsCloud/liang/github/" . "emacs/")
+ ("/Users/liang/Documents/clouds/nutsCloud/liang/github/emacs/.emacs.d/" . "extend/")
+ ("/Users/liang/Documents/clouds/nutsCloud/github/emacs/.emacs.d/" . "config/")
+ ("/Users/liang/Documents/clouds/nutsCloud/Xiaomi/接口文档/activity/" . "20160207/")
+ ("/Users/liang/.oh-my-zsh/" . "themes/")
+ ("/Users/liang/Documents/clouds/nutsCloud/work/emacs/.emacs.d/" . "config/")
+ ("/Users/liang/Documents/clouds/nutsCloud/work/emacs/" . ".emacs.d/")
+ ("/Users/liang/Documents/clouds/nutsCloud/work/" . "emacs/")
+ ("/Users/liang/Documents/workspace/micodes/miui-sec-thrift/src/main/java/com/xiaomi/miui/sec/" . "thrift/")
+ ("/Users/liang/Documents/workspace/micodes/miui-sec-thrift/src/main/java/com/xiaomi/miui/" . "sec/")
+ ("/Users/liang/Documents/workspace/micodes/miui-sec-thrift/src/main/java/com/xiaomi/" . "miui/")
+ ("/Users/liang/Documents/workspace/micodes/miui-sec-thrift/src/main/java/com/" . "xiaomi/")
+ ("/Users/liang/Documents/workspace/micodes/miui-sec-thrift/src/main/java/" . "com/")
+ ("/Users/liang/Documents/clouds/nutsCloud/Xiaomi/接口文档/" . "activity/")
+ ("/Users/liang/Documents/clouds/nutsCloud/Xiaomi/" . "接口文档/")
+ ("/Users/liang/Documents/clouds/nutsCloud/" . "Xiaomi/")
+ ("/Users/liang/Documents/clouds/" . "nutsCloud/")
+ ("/Users/liang/Documents/bin/resin-pro-4.0.44/" . "conf/")
+ ("/Users/liang/Documents/bin/" . "redis-3.2.5/")
+ ("/Users/liang/Documents/workspace/micodes/miui-sec-thrift/src/main/" . "java/")
+ ("/Users/liang/Documents/workspace/micodes/miui-sec-thrift/src/" . "main/")
+ ("/Users/liang/Documents/workspace/micodes/miui-sec-thrift/" . "src/")
+ ("/Users/liang/Documents/NutsCloud/" . "tmp/")
+ ("/Users/liang/Documents/docker/" . "tomcat7_jdk1.6/")
+ ("/Users/liang/Bin/" . "redis-3.0.2/")
+ ("/Users/liang/Documents/我的坚果云/" . "tmp/")
+ ("/Users/liang/Documents/workspace/micodes/miui-flow-parent/" . "beans/")
+ ("/Users/liang/Documents/workspace/micodes/" . "hbase-table-creator/")
+ ("/Users/liang/Documents/workspace/comflag/" . "pythons/")
+ ("/Users/liang/Documents/workspace/" . "python/")
+ ("/" . "Users/")
+ ("/Users/liang/Documents/" . "bin/")
+ ("/Users/liang/GitHub/osx4pc/OPTIPLEX/OPTIPLEX9020/" . "OSX10.9.4/")
+ ("/Users/liang/GitHub/osx4pc/OPTIPLEX/" . "OPTIPLEX9020/")
+ ("/Users/liang/GitHub/osx4pc/" . "OPTIPLEX/")
+ ("/Users/liang/GitHub/" . "osx4pc/")
+ ("/Users/liang/百度云同步盘/MacOS/" . "10.10.3/")
+ ("/Users/liang/百度云同步盘/" . "MacOS/")
+ ("/Users/liang/bin/kafka/" . "config/")
+ ("/Users/liang/Desktop/" . "epoll_server/")
+ ("/Users/" . "liang/")
+ ("/Users/liang/bin/zookeeper-3.4.6/" . "conf/")
+ ("/Users/liang/bin/" . "kafka/")
+ ("/Users/liang/.emacs.d/extend/" . "org-html-themes/")
+ ("/Users/liang/.emacs.d/" . "config/")
+ ("/Users/liang/Nuts/work/" . "1111.txt/")
+ ("/Users/liang/Nuts/" . "work/")
+ ("/Users/liang/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/liang/Desktop/"
+ "/Users/liang/Documents/clouds/nutsCloud/liang/github/emacs/.emacs.d/extend/color-theme-solarized/"
+ "/Users/liang/.emacs.d/config/"
+ "/Users/liang/"
+ "/Users/liang/Documents/bin/redis-3.2.5/"
+ "/Users/liang/Desktop/epoll_server/"
+ "/Users/liang/Desktop/csv/"
+ "/Users/liang/Documents/codes/python/ml/"
+ "/Users/liang/Documents/workspace/python/ml/"
+ "/Users/liang/Desktop/大汉广移转西城补订/"
+ "/Users/liang/Documents/workspace/micodes/hbase-table-creator/miui_sec/"
+ "/Users/liang/Notes/notes/"
+ "/Users/liang/Notes/gtd/"
+ "/Users/liang/Notes/work/"
+ "/Users/liang/Notes/gdt/"
+ "/Users/liang/Documents/clouds/nutsCloud/liang/github/emacs/"
+ "/Users/liang/Documents/clouds/nutsCloud/liang/github/emacs/.emacs.d/config/"
+ "/Users/liang/.emacs.d/extend/json-reformat/"
+ "/Users/liang/.emacs.d/extend/"
+ "/Users/liang/Documents/clouds/nutsCloud/github/emacs/.emacs.d/config/"
+ "/Users/liang/Downloads/"
+ "/Users/liang/Documents/clouds/nutsCloud/Xiaomi/接口文档/activity/20160207/"
+ "/Users/liang/Documents/clouds/nutsCloud/Xiaomi/接口文档/activity/20160122/"
+ "/Users/liang/.m2/"
+ "/Users/liang/Documents/clouds/nutsCloud/Xiaomi/接口文档/activity/20151221/"
+ "/Users/liang/Documents/clouds/nutsCloud/Xiaomi/接口文档/activity/20151120/"
+ "/Users/liang/Documents/clouds/nutsCloud/Xiaomi/接口文档/activity/20151111/"
+ "/Users/liang/Documents/clouds/nutsCloud/Xiaomi/接口文档/activity/20151001/"
+ "/Users/liang/Documents/clouds/nutsCloud/Xiaomi/接口文档/activity/20150918/"
+ "/Users/liang/Documents/clouds/nutsCloud/Xiaomi/接口文档/activity/20150819/"
+ "/Users/liang/Documents/clouds/nutsCloud/github/emacs/"
+ "/Users/liang/Desktop/tmp/"
+ "/Users/liang/Documents/clouds/nutsCloud/work/emacs/.emacs.d/config/"
+ "/Users/liang/Documents/workspace/python/"
+ "/Users/liang/Documents/clouds/nutsCloud/work/emacs/"
+ "/Users/liang/.emacs.d/tutorial/"
+ "/Users/liang/.emacs.d/extend/lusty-explorer/"
+ "/Users/liang/Documents/clouds/nutsCloud/tmp/"
+ "/Users/liang/Documents/bin/docker/"
+ "/Users/liang/.oh-my-zsh/themes/"
+ "/Users/liang/Documents/clouds/nutsCloud/work/emacs/.emacs.d/extend/"
+ "/Users/liang/Documents/workspace/micodes/miui-sec-thrift/src/main/java/com/xiaomi/miui/sec/thrift/"
+ "/Users/liang/Documents/workspace/micodes/miui-sec-thrift/src/main/resources/"
+ "/Users/liang/Documents/clouds/nutsCloud/Xiaomi/接口文档/瑞翼/"
+ "/Users/liang/Documents/bin/resin-pro-4.0.44/conf/"
+ "/Users/liang/Documents/NutsCloud/tmp/"
+ "/Users/liang/Documents/我的坚果云/tmp/"
+ "/Users/liang/Desktop/20150619_bingo_xiaomiIds/"
+ "/Users/liang/Documents/docker/tomcat7_jdk1.6/"
+ "/Users/liang/Documents/docker/apache_ubuntu/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "tmp.sql"
+ "solarized-theme.el"
+ "color-theme-solarized-config.el"
+ ".emacs"
+ "redis.conf"
+ "echo_client.c"
+ "echo_server.c"
+ "jd.sql"
+ "jd_20161130.txt"
+ "reund.sql"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/liang/Downloads/" (22602 9180 0 0) "黑镜.Black.Mirror.S01E01.Chi_Eng.WEBrip.720X400-YYeTs人人影视.torrent" "邓小平时代6寸港版.pdf" "身份证.pdf" "纸牌屋第二季.torrent" "纸牌屋.House.Of.Cards.2013.S02E13.End.中英字幕.HR-BluRay.AC3.1024X512.torrent" "简历_陈家盟_20161126.doc" "签名.txt" "稀缺.mobi" "深入理解OSGi  Equinox原理、应用与最佳实践  PDF电子书下载 带目录书签 完整版_.zip" "深入剖析NGINX.pdf" "流量销售商品列表.xls" "杀戮与文化.pdf" "未确认 992116.crdownload" "数据库上线系统使用说明(面向开发)  (1)副本.pdf" "支持向量机导论(中文).pdf" "接口代码.pdf" "我们为什么会发胖？ - [美]盖里·陶比斯.mobi" "小米公司介绍20160913.pptx" "实战Nginx.pdf" "大话设计模式.pdf" "决战Nginx： 系统卷 - 高性能Web服务器详解与运维.pdf" "人民币金额大写.alfredworkflow" "产品列表.txt" "万恒流量平台流量订购接口规范V2.0版本.docx" "《我们为什么会发胖%5B精品%5D》.epub" "《我们为什么会发胖%5B精品%5D》 (1).epub" "~$箱】程序发送邮件教程V1.2.docx" "~$接口有小米没有的订单.xlsx" "~$工程机领用申请单.xlsx" "~$工程机领用申请单(1).xlsx" "~$小米公司介绍20160913.pptx" "~$分省(1).xlsx" "Youdao Translate.alfredworkflow" "Workflow-Searcher.alfredworkflow" "wordpress-importer.0.6.3.zip" "WoBase64.java" "WHOIS.alfredworkflow" "weekly-book_34.mobi.zip" "Web2App_1.9.0_xclient.info.dmg" "Web2App_1.9.0_xclient.info (1).dmg" "upload_data.apk" "upload_data (1).apk" "UltraEdit_16.10.22_xclient.info.dmg" "UltraEdit_16.10.0.19.dmg" "Tuxera NTFS_v2016_Final_xclient.info.dmg" "Transmit_4.4.11_xclient.info.dmg" "thunder_dl2.7.7.2318_Beta.dmg" "TensorFlow 官方文档中文版 - v1.2.pdf" "taobaoip.alfredworkflow" "Storm分布式实时计算模式 PDF电子书 带书签目录.pdf" "Spark快速数据处理.pdf" "Spark快速数据处理 (1).pdf" "Spark大数据处理：技术、应用与性能优化(全).pdf" "servicedata.do" "S01E05.mp4" "RabbitMQ实战.zip" "QQMgrDL/" "QQ_V5.2.0.dmg" "Qbserve_1.48_xclient.info.dmg" "PDF Expert_2.0.1_xclient.info.dmg" "NGINX高性能WEB服务器详解_PDF电子书下载 带书签目录 高清完整版_.zip" "Nginx模块开发与架构解析.pdf" "NewDESUtil.java" "Navicat Premium_11.2.15_xclient.info.dmg" "MySQL性能调优与架构设计.pdf" "MySQL性能调优与架构设计+.pdf" "miui-flow-common.iml" "MemoryAnalyzer-1.6.0.20160531-macosx.cocoa.x86_64.zip" "mat.app/" "Mac OSX 10.12.1.dmg" "Keepalived权威指南中文.pdf" "jQuery经典入门教程(绝对详细).pdf" "jQuery基础教程（第四版）中文pdf版.pdf" "jdk7u60-ece0e8cc8cfe.zip" "jdk7u60-ece0e8cc8cfe/" "jd_area_result_yes.csv" "JAVA服务器开发_北京邮电大学_高若雯_实习5个月.pdf" "imsi_map_20161020101102.txt" "imsi_map_20161020095953.txt" "imsi_map_20161020094344.txt" "imsi_map_20161020094059.txt" "ideaIU-2016.3.dmg" "HTTP权威指南》中文版.pdf" "Hive编程指南.pdf" "HBase权威指南(中文版).pdf" "HBase Essentials.pdf" "Hadoop技术内幕：深入解析YARN架构设计与实现原理.pdf" "ForkLift_2.6.6_xclient.info.dmg" "FlowOrderOrder_20161115153334.csv" "FlowOrderOrder_20161024145918.csv" "FlowOrderOrder_20161024145900.csv" "FlowOrderOrder_20161024145829.csv" "FlowOrderOrder_20161024145639.csv" "Firefox-latest.dmg" "fe444222d9f48125035f853234927465.jpg" "fda7d2f66c9e83f217696ede134f3187.jpg" "essential-netty-in-action.pdf" "editHosts.alfredworkflow" "Douban.alfredworkflow" "Copied_1.1.7_xclient.info.dmg" "Clover_v2.3k_r3899 (1).zip" "Calendar.alfredworkflow" "Calendar 366 Plus_1.3.7_xclient.info.dmg" "Black.Mirror.White.Christmas.1080p.WEB-DL.AAC2.0.H.264-Coo7.torrent" "Black.Mirror.S01E03.720p.HDTV.x264-TLA.torrent" "black.mirror.s01e02.720p.hdtv.x264-tla.torrent" "Black.Mirror.S01E01.720p.HDTV.x264-BiA.torrent" "Black.Mirror.S01.720p.WEB-DL.AAC2.0.H.264-BTN.torrent" "Black Mirror Season 1-2 Complete 720p HDTV x264.torrent" "Black Mirror S01E01 HDTV XviD-RiVER.torrent" "BaiduNetdisk_mac_2.0.0.dmg" "BaiduNetdisk_mac_2.0.0 (1).dmg" "Alfred_3.2_xclient.info.dmg" "[纸牌屋(全13集)]House.of.Cards.S01.2013.BluRay.720p.x264.AC3-CnSCG.torrent" "[BTBT.TV出品][少年派的奇幻漂流][1080P高清国语版][11.93 GB].torrent" "[92np.com]魔兽.韩版.官方中英字幕.Warcraft.2016.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.torrent" "[92np.com]纸牌屋.第四季全集.House.Of.Cards.S04E01-13.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.torrent" "[92np.com]教父3 The.Godfather.Part.III.1990.iNTERNAL.720p.BluRay.x264-LiBRARiANS 10.7G.torrent" "[92np.com][无间道Ⅲ][HD-MKV_2.34G][国粤中英字][720P].torrent" "[92np.com][无间道Ⅱ][HD-MKV_2.37G][国粤中英字][720P].torrent" "[92np.com][无间道][HD-MKV_2G][国粤中英字][720P].torrent" "[92np.com][1080P]纸牌屋.第三季.全集.House.Of.Cards.S03E01-13.HD1080P.X264.AAC.[中文字幕].torrent" "360InternetSecurity_1.2.3.dmg" "1111.txt" "1025.apk" ".tmp/" ".localized" ".DS_Store" ".#去1.txt" "--Sarkar Raj .2008.4.4GB.torrent" "../" "./")
+
+ ("/Users/liang/Documents/clouds/nutsCloud/liang/github/emacs/.emacs.d/extend/color-theme-solarized/" (22602 24202 0 0) "solarized-theme.el" "solarized-definitions.el" "README.md" "makepkg.sh" "Makefile" "LICENSE" "ert-tests/" "color-theme-solarized.el" "color-theme-solarized-pkg.el" ".travis.yml" ".gitignore" "../" "./")
+
+ ("/Users/liang/Documents/clouds/nutsCloud/liang/github/emacs/.emacs.d/extend/" (22268 36337 0 0) "org-mode/" "org-html-themes/" "multi-term/" "markdown-mode/" "lusty-explorer/" "json-snatcher/" "json-reformat/" "csv-mode/" "color-theme-solarized/" "color-theme-6.6.0/" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/clouds/nutsCloud/liang/github/emacs/.emacs.d/" (22591 47050 0 0) "url/" "tutorial/" "thumbs/" "SessionDesktop.el" "ido.last" "extend/" "elpa/" "config/" "bookmarks" "auto-save-list/" ".DS_Store" "../" "./")
+
+ ("/Users/liang/.emacs.d/" (22591 47050 0 0) "url/" "tutorial/" "thumbs/" "SessionDesktop.el" "ido.last" "extend/" "elpa/" "config/" "bookmarks" "auto-save-list/" ".DS_Store" "../" "./")
+
+ ("/Users/liang/" (22602 21612 0 0) "百度云同步盘/" "z170/" "Public/" "Pictures/" "Notes/" "News/" "Music/" "Movies/" "Library/" "java_error_in_idea.hprof" "Google 云端硬盘/" "GitBook/" "FarBox/" "Downloads/" "Documents/" "Desktop/" "bower_components/" "Applications/" ".zshrc-e" ".zshrc" ".zsh_history" ".zsh-update" ".zooviewer" ".zinc/" ".zcompdump-liang’s iMac-5.2" ".zcompdump-liang’s iMac-5.0.8" ".zcompdump-liang’s iMac-5.0.5" ".wiznote/" ".vscode/" ".viminfo" ".v8flags.3.28.71.19.root.json" ".v8flags.3.28.71.19.liang.json" ".Trash/" ".tmux.conf.local.swp" ".tmux.conf.local" ".tmux.conf" ".tmux/" ".terminfo/" ".swt/" ".subversion/" ".ssh/" ".spark_history" ".sogouinput/" ".ShadowsocksX/" ".scala_history" ".sbt/" ".rnd" ".rediscli_history" ".Rapp.history" ".python27_compiled/" ".plugman/" ".oracle_jre_usage/" ".oh-my-zsh/" ".nutstore/" ".npm/" ".node-gyp/" ".ngrok2/" ".newsrc-dribble" ".matplotlib/" ".m2/" ".local/" ".ivy2/" ".ionic/" ".IntelliJIdea15/" ".IntelliJIdea14/" ".idm/" ".idea-build/" ".hgignore_global" ".gradle/" ".gitignore_global" ".gitconfig" ".gem/" ".farbox/" ".emacs.d/" ".emacs" ".DS_Store" ".docker/" ".designer/" ".cups/" ".cordova/" ".config/" ".CFUserTextEncoding" ".cache/" ".bash_history" ".atom/" ".android/" ".activator/" "../" "./")
+
+ ("/Users/liang/Desktop/" (22602 21627 0 0) "实战Java高并发程序设计/" "~$携程系统对接需求信息表【TTD】2.xlsx" "~$张丽娜.doc" "~$小米对账结果.xlsx" "~$后向产品信息表设计.xlsx" "~$zhuowang_fail_june_2.xlsx" "~$274.0019 - Combined Assignment_Declaration.docx" "~$2016年5月19日应用商店活动中奖纪录.xlsx" "thrift-heap.bin" "thrift-heap.a2s.index" "szJava_jb51.rar" "jd_20161130.txt" "Install macOS Sierra.app/" "gen-java/" "epoll_server/" "daiyi_20161209.txt" ".localized" ".DS_Store" ".#flow_order_order_20160907_20160912.csv" ".#5555.sql" ".#555.sql" ".#444.sql" ".#3333.sql" ".#333.sql" ".#222.sql" ".#111.sql" "../" "./")
+
+ ("/Users/liang/Desktop/epoll_server/" (22600 61454 0 0) "fifo_demo1.c" "epoll_server.c" "echo_server.c" "echo_client.c" "../" "./")
+
+ ("/Users/liang/Documents/bin/redis-3.2.5/" (22598 21307 0 0) "utils/" "tests/" "src/" "sentinel.conf" "runtest-sentinel" "runtest-cluster" "runtest" "redis.conf" "README.md" "MANIFESTO" "Makefile" "INSTALL" "deps/" "COPYING" "CONTRIBUTING" "BUGS" "00-RELEASENOTES" ".gitignore" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/bin/" (22598 21302 0 0) "zookeeper/" "thrift-0.5.0/" "spark-1.4.0-bin-hadoop2.4.tgz" "spark-1.4.0-bin-hadoop2.4/" "spark-1.2.0-mdh1.2.4-bin-2.4.0-mdh2.0.7/" "Sencha/" "scala-2.11.7/" "scala-2.11.6/" "scala-2.10.4/" "sbt/" "resin-pro-4.0.44——back/" "resin-pro-4.0.44/" "resin-pro-4.0.40.tar.gz" "resin-pro-4.0.40/" "resin-pro-4.0.13.tar.gz" "resin-pro-4.0.13/" "redis-3.2.5/" "kerberos/" "kafka_2.10-0.10.0.0/" "IntelliJIDEALicenseServer(v1.2)/" "infra-client/" "hbase-help/" "hbase-1.1.5/" "hadoop-2.4.0-mdh2.0.7/" "docker/" "beego/" "apache-tomcat-7.0.63/" "apache-maven-3.3.9/" "apache-ant-1.9.6/" "android-sdk-macosx/" "activator-dist-1.3.5/" ".DS_Store" "../" "./")
+
+ ("/Users/" (22559 62803 0 0) "Shared/" "liang/" "Guest/" ".localized" "../" "./")
+
+ ("/Users/liang/Documents/bin/resin-pro-4.0.44/conf/" (22040 55776 0 0) "sample/" "resin.xml.orig" "resin.xml" "resin.properties.orig" "resin.properties.in" "resin.properties" "health.xml" "cluster-default.xml" "app-default.xml" ".DS_Store" "../" "./")
+
+ ("/Users/liang/.oh-my-zsh/themes/" (22600 46351 0 0) "zhann.zsh-theme" "ys.zsh-theme" "xiong-chiamiov.zsh-theme" "xiong-chiamiov-plus.zsh-theme" "wuffers.zsh-theme" "wezm.zsh-theme" "wezm+.zsh-theme" "wedisagree.zsh-theme" "trapd00r.zsh-theme" "tonotdo.zsh-theme" "tjkirch_mod.zsh-theme" "tjkirch.zsh-theme" "theunraveler.zsh-theme" "terminalparty.zsh-theme" "takashiyoshida.zsh-theme" "suvash.zsh-theme" "superjarin.zsh-theme" "sunrise.zsh-theme" "sunaku.zsh-theme" "strug.zsh-theme" "steeef.zsh-theme" "sporty_256.zsh-theme" "sorin.zsh-theme" "sonicradish.zsh-theme" "Soliah.zsh-theme" "smt.zsh-theme" "skaro.zsh-theme" "simple.zsh-theme" "simonoff.zsh-theme" "sammy.zsh-theme" "robbyrussell.zsh-theme" "rkj.zsh-theme" "rkj-repos.zsh-theme" "rixius.zsh-theme" "risto.zsh-theme" "rgm.zsh-theme" "re5et.zsh-theme" "pygmalion.zsh-theme" "pure.zsh-theme" "pmcgee.zsh-theme" "philips.zsh-theme" "peepcode.zsh-theme" "obraun.zsh-theme" "norm.zsh-theme" "nicoulaj.zsh-theme" "nebirhos.zsh-theme" "nanotech.zsh-theme" "muse.zsh-theme" "murilasso.zsh-theme" "mrtazz.zsh-theme" "mortalscumbag.zsh-theme" "mira.zsh-theme" "minimal.zsh-theme" "miloshadzic.zsh-theme" "mikeh.zsh-theme" "michelebologna.zsh-theme" "mh.zsh-theme" "mgutz.zsh-theme" "maran.zsh-theme" "macovsky.zsh-theme" "macovsky-ruby.zsh-theme" "lukerandall.zsh-theme" "linuxonly.zsh-theme" "lambda.zsh-theme" "kphoen.zsh-theme" "kolo.zsh-theme" "kiwi.zsh-theme" "kennethreitz.zsh-theme" "kardan.zsh-theme" "kafeitu.zsh-theme" "junkfood.zsh-theme" "juanghurtado.zsh-theme" "jtriley.zsh-theme" "jreese.zsh-theme" "josh.zsh-theme" "jonathan.zsh-theme" "jnrowe.zsh-theme" "jispwoso.zsh-theme" "jbergantine.zsh-theme" "jaischeema.zsh-theme" "itchy.zsh-theme" "intheloop.zsh-theme" "imajes.zsh-theme" "humza.zsh-theme" "half-life.zsh-theme" "gozilla.zsh-theme" "gnzh.zsh-theme" "gianu.zsh-theme" "geoffgarside.zsh-theme" "gentoo.zsh-theme" "garyblessington.zsh-theme" "gallois.zsh-theme" "gallifrey.zsh-theme" "fwalch.zsh-theme" "funky.zsh-theme" "frontcube.zsh-theme" "frisk.zsh-theme" "fox.zsh-theme" "fletcherm.zsh-theme" "flazz.zsh-theme" "fishy.zsh-theme" "fino.zsh-theme" "fino-time.zsh-theme" "example.zsh-theme" "evan.zsh-theme" "essembeh.zsh-theme" "emotty.zsh-theme" "edvardm.zsh-theme" "eastwood.zsh-theme" "duellj.zsh-theme" "dstufft.zsh-theme" "dst.zsh-theme" "dpoggi.zsh-theme" "dogenpunk.zsh-theme" "dieter.zsh-theme" "daveverwer.zsh-theme" "darkblood.zsh-theme" "dallas.zsh-theme" "cypher.zsh-theme" "crunch.zsh-theme" "crcandy.zsh-theme" "cloud.zsh-theme" "clean.zsh-theme" "candy.zsh-theme" "candy-kingdom.zsh-theme" "bureau.zsh-theme" "blinks.zsh-theme" "bira.zsh-theme" "awesomepanda.zsh-theme" "avit.zsh-theme" "aussiegeek.zsh-theme" "arrow.zsh-theme" "apple.zsh-theme" "amuse.zsh-theme" "alanpeabody.zsh-theme" "agnoster.zsh-theme" "afowler.zsh-theme" "af-magic.zsh-theme" "adben.zsh-theme" "3den.zsh-theme" "../" "./")
+
+ ("/Users/liang/Documents/bin/docker/" (22462 27926 0 0) "uninstalldocker.sh" "hbaseStart.md" "devStart.sh" "../" "./")
+
+ ("/Users/liang/.emacs.d/extend/lusty-explorer/" (21932 27247 0 0) "lusty-explorer.el" "../" "./")
+
+ ("/Users/liang/.emacs.d/tutorial/" (21932 39024 0 0) "English.tut" "../" "./")
+
+ ("/Users/liang/Documents/workspace/python/" (22434 55280 0 0) "rabbitDemo/" "numpy/" "ml/" "matplotlib/" "chapter2/" "assets/" ".idea/" ".DS_Store" "../" "./")
+
+ ("/Users/liang/.m2/" (22551 65455 0 0) "settings.xml" "repository/" "../" "./")
+
+ ("/Users/liang/.emacs.d/extend/" (22268 36337 0 0) "org-mode/" "org-html-themes/" "multi-term/" "markdown-mode/" "lusty-explorer/" "json-snatcher/" "json-reformat/" "csv-mode/" "color-theme-solarized/" "color-theme-6.6.0/" ".DS_Store" "../" "./")
+
+ ("/Users/liang/.emacs.d/extend/json-reformat/" (22266 33767 0 0) "json-reformat.el" "../" "./")
+
+ ("/Users/liang/.emacs.d/config/" (22270 8562 0 0) "welcome-screen-config.el" "welcome-screen" "org-mode-config.el" "multi-term-mode-config.el" "mode-line-config.el" "lusty-explorer-config.el" "line-copy-config.el" "json-mode-config.el" "ido-mode-config.el" "color-theme-solarized-config.el" "../" "./")
+
+ ("/Users/liang/Documents/workspace/python/ml/" (22423 14667 0 0) "testSet6.txt" "testSet5.txt" "testSet4.txt" "testSet3.txt" "testSet1.txt" "testSet.txt" "kmeans-cluster.py" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/" (22532 26445 0 0) "workspace/" "staging/" "Laughingbird Documents/" "InstallElCapitan.dmg" "gen-javabean/" "data/" "clouds/" "bin/" ".rqd/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Desktop/csv/" (22541 48138 0 0) "flowOrderOrderList_2023.csv" "flowOrderOrderList_1819.csv" "flowOrderOrderList_17.csv" "../" "./")
+
+ ("/Users/liang/Documents/codes/python/ml/" (22437 65534 0 0) "../" "./")
+
+ ("/Users/liang/Documents/codes/python/" (22437 65535 0 0) "ml/" "../" "./")
+
+ ("/Users/liang/Documents/codes/" (22437 65532 0 0) "spark-1.4.1/" "python/" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/workspace/" (22331 56107 0 0) "spark-1.4.1/" "spark/" "python/" "org/" "nituchao/" "ml/" "miui-sec-study/" "miui-flow-aop/" "mihome/" "micodes/" "ionic/" "hadoop/" "golang/" "ext/" "envs/" "docker/" "algorithm/" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Desktop/大汉广移转西城补订/" (22320 10618 0 0) "70M.txt" "500M.txt" "3G.txt" "30M.txt" "2G.txt" "1G.txt" "150M.txt" "../" "./")
+
+ ("/Users/liang/Documents/workspace/micodes/hbase-table-creator/miui_sec/" (22295 9148 0 0) "splits-order.txt" "splits-md5.txt" "README.md" "namespace.hsh" "miui_sec_stat.hsh" "miui_sec_flow_order_order_provider.hsh" "miui_sec_flow_order_order_pay.hsh" "miui_sec_flow_order_order_ack.hsh" "miui_sec_flow_order_order.hsh" "miui_sec_flow_order_bill.hsh" "miui_sec_common_result.hsh" "miui_sec_auth_permission.hsh" "../" "./")
+
+ ("/Users/liang/Notes/notes/" (22285 48341 0 0) "sparksql.org" "sparksql.html" "spark.org" "spark.html" "mi.txt" "emacs.org" "emacs.html" "../" "./")
+
+ ("/Users/liang/Documents/workspace/micodes/hbase-table-creator/" (22284 40790 0 0) "zipkin.hsh" "yellowpage_creator.hsh" "xtrace2.hsh" "xtrace.hsh" "xmss.hsh" "xmpush/" "xm_order.hsh" "xiaoqiang_log.hsh" "xiaoqiang_kvstore.hsh" "xiaoqiang_feed.hsh" "xiaoqiang_config.hsh" "xiaoqiang_app_log.hsh" "xiaoqiang_action_report.hsh" "xiaomitv_milink.hsh" "xiaomitv_box.hsh" "xiaomi_weblog.hsh" "xiaomi_user_profile.hsh" "xiaomi_user_olap.hsh" "xiaomi_user_event_test.hsh" "xiaomi_user_event.hsh" "xiaomi_user_credit.hsh" "xiaomi_stats.hsh" "xiaomi_service.hsh" "xiaomi_ip_profile.hsh" "xiaomi_id_mapping.hsh" "xiaomi_gamecenter_recommend.hsh" "xiaomi_device_trace.hsh" "xiaomi_device_info_test.hsh" "xiaomi_device_info.hsh" "xiaomi_device_event_test.hsh" "xiaomi_device_event.hsh" "xiaomi_blacklist.hsh" "user_profile.hsh" "user_login_info.hsh" "testteam_log.hsh" "table_statistics.hsh" "splits.txt" "splits-uuid.txt" "splits-md5.txt" "splits-hex.txt" "splits-hex-256.txt" "splits-base64.txt" "splits-alnum.txt" "splits-10.txt" "splits-10-with-negative.txt" "spark_test_table.hsh" "sms_message.hsh" "sec_weblog.hsh" "sa_dev_traffic_idc.hsh" "sa_dev_traffic.hsh" "sa_dev_sre_ua.hsh" "sa_dev_sre_traffic.hsh" "sa_dev_sre_rt.hsh" "sa_dev_sre_hc.hsh" "sa_dev_domain.hsh" "relation_user_contacts.hsh" "relation_recommend.hsh" "relation_music_recommend.hsh" "relation_cube.hsh" "recommend_push_history.hsh" "README.md" "readme" "profile_cloud_dataplatform_video_v2.hsh" "profile/" "phonecall_data.hsh" "passport_user.hsh" "passport_support_log.hsh" "passport_downlink.hsh" "passport_action.hsh" "opentsdb_2.0_emq.hsh" "opentsdb_2.0.hsh" "occommon_log-splits.txt" "mvideo_backend.hsh" "music_search_recommend.hsh" "mms_digest.hsh" "miwifi_weixin_user2device.hsh" "miwifi_weixin_user.hsh" "miwifi_weixin_device2user.hsh" "miwifi_router_profile.hsh" "miwifi_log.hsh" "mivideo_user.hsh" "mivideo_devicestat.hsh" "miui_yuedu_rewarded_device.hsh" "miui_yuedu_ownership.hsh" "miui_yuedu_experience.hsh" "miui_yuedu_consume_record.hsh" "miui_vip_user_task.hsh" "miui_vip_user_statistics.hsh" "miui_vip_user_special.hsh" "miui_vip_user_log.hsh" "miui_vip_user_buff.hsh" "miui_vip_user_award.hsh" "miui_vip_transaction.hsh" "miui_vip_task_history.hsh" "miui_vip_task_activeid.hsh" "miui_vip_status.hsh" "miui_vip_rank_activity.hsh" "miui_vip_pisces_history.hsh" "miui_vip_pisces.hsh" "miui_vip_manual_ops.hsh" "miui_vip_game_status.hsh" "miui_vip_game_activity.hsh" "miui_vip_badge_activity.hsh" "miui_vip_backup_activity.hsh" "miui_vip_activity.hsh" "miui_user_profile.hsh" "miui_user_info.hsh" "miui_user_id.hsh" "miui_sec_stat.hsh" "miui_sec_original_data.hsh" "miui_sec_data.hsh" "miui_sec_common_result.hsh" "miui_sec_auth_permission.hsh" "miui_sec/" "miui_mipub/" "miui_market_user_info.hsh" "miui_market_order.hsh" "miui_market_auth.hsh" "miui_data/" "miui_browser_profile.hsh" "miui_browser/" "miui_appstore/" "miui_ad_user_profile.hsh" "miui_ad_device_profile.hsh" "miui_ad_ctr_appstore.hsh" "miui_ad.hsh" "mitv_video_recommend.hsh" "mitv_user_profile.hsh" "mitv_gallery_like.hsh" "mitv_ad_stat_creator.hsh" "mistats/" "misearch_global.hsh" "mipay_nfcpay_tsm.hsh" "mipass/" "mioms.hsh" "miliao_user_sequence.hsh" "miliao_recent.hsh" "miliao_message.hsh" "mifi_user_profile.hsh" "mifi_instalment_candidate.hsh" "mifi_data.hsh" "micloud_wifi_share.hsh" "micloud_user_thread_id.hsh" "micloud_user_bindid.hsh" "micloud_transfer.hsh" "micloud_thread_sync.hsh" "micloud_simplefile_archive_v2.hsh" "micloud_resync.hsh" "micloud_quota.hsh" "micloud_phone_number_digest.hsh" "micloud_pdc.hsh" "micloud_note.hsh" "micloud_music.hsh" "micloud_mipub_message_mapping.hsh" "micloud_mipub_message.hsh" "micloud_micard.hsh" "micloud_keta_userprofile.hsh" "micloud_keta_usercircle.hsh" "micloud_keta_temp.hsh" "micloud_keta_share.hsh" "micloud_keta_selfie.hsh" "micloud_keta_relation.hsh" "micloud_keta_recommend.hsh" "micloud_keta_push.hsh" "micloud_keta_match.hsh" "micloud_keta_install.hsh" "micloud_keta_imgincircle.hsh" "micloud_keta_img_dupcheck.hsh" "micloud_keta_img.hsh" "micloud_keta_facemapping.hsh" "micloud_keta_face.hsh" "micloud_keta_contact.hsh" "micloud_keta_circle.hsh" "micloud_keta_askee.hsh" "micloud_gallery_sandbox.hsh" "micloud_gallery_index.hsh" "micloud_gallery_geocoding_api_cache.hsh" "micloud_gallery_gaode_idsearch_api_cache.hsh" "micloud_gallery_facetagging_v.hsh" "micloud_gallery_facetagging.hsh" "micloud_gallery_facesync.hsh" "micloud_gallery_face_trace_info.hsh" "micloud_gallery_albumsharetag.hsh" "micloud_gallery.hsh" "micloud_forum_search.hsh" "micloud_fitness.hsh" "micloud_face_labelling.hsh" "micloud_drive_staging.hsh" "micloud_drive_production.hsh" "micloud_drive_aws_or.hsh" "micloud_device_counting.hsh" "micloud_contact_history.hsh" "micloud_contact_cluster.hsh" "micloud_browser.hsh" "micloud_analysis_userprofile.hsh" "micloud_analysis_sms.hsh" "micloud_analysis_permission.hsh" "micloud_analysis_features.hsh" "micloud_analysis_data_report.hsh" "micloud_analysis_data_quality.hsh" "micloud_analysis_billing.hsh" "micloud_analysis_activephone.hsh" "mibi_account.hsh" "mi_ctr_appstore.hsh" "mi_ad_user_data.hsh" "mfs_event_counter.hsh" "iss_file.hsh" "iss_app.hsh" "huyu_contact_recommend.hsh" "hbase_client_test_table.hsh" "generate_split_key.py" "generate_md5_split_key.py" "game_center.hsh" "game_ads_info.hsh" "galaxy.hsh" "galaxy/" "example_creator.hsh" "duokan_creator.hsh" "cloud_push_uuid_mapping.hsh" "cloud_micloud_user_vip_privilege.hsh" "cloud_micloud_keta_reversed_contact.hsh" "cloud_micloud_keta_kv.hsh" "cloud_micloud_gc.hsh" "cloud_micloud_finance_debt_collection.hsh" "cloud_micloud_contact_reversed_index.hsh" "cloud_micloud_cloudcard_matcher.hsh" "cloud_micloud_cloudcard_kv.hsh" "cloud_finance_userprofile_staging.hsh" "cloud_finance_userprofile.hsh" "cloud_dp_push_uuid_mapping_test.hsh" "cloud_dp_push_uuid_mapping.hsh" "cloud_dp_ip_access_stats.hsh" "cloud_dp_id_mapping.hsh" "cloud_dataplatform_zixun_uctr.sh" "cloud_dataplatform_zixun_tdup.hsh" "cloud_dataplatform_zixun_pdup.hsh" "cloud_dataplatform_zixun_ductr.sh" "cloud_dataplatform_zixun_deadt.hsh" "cloud_dataplatform_zixun.sh" "cloud_dataplatform_video_v2.hsh" "cloud_dataplatform_video.hsh" "cloud_dataplatform_recommend_feature.sh" "cloud_dataplatform_news_webpage.sh" "cloud_dataplatform_news_productionpage.hsh" "cloud_dataplatform_news_parsedpage.hsh" "cloud_dataplatform_fiction.hsh" "cloud_dataplatform_book.hsh" "cashpay_his_record.hsh" "cashpay.hsh" "cashpay/" "browser_user_profile.hsh" "browser_mixrec_history.hsh" "browser_mixrec_ctr.hsh" "b2cdc_push_user.hsh" "b2c_user_profile_sgp.hsh" "b2c_user_profile.hsh" "b2c_user_goods_relation.hsh" "b2c_user_action.hsh" "b2c_site_search.hsh" "b2c_Precision_Marketing.hsh" "b2c_kf_word_trend.hsh" "b2c_kf_chat_message.hsh" "b2c_dc_weixin_msg.hsh" "b2c_dc_weibo.hsh" "b2c_dc_user_attribute.hsh" "b2c_dc_push_user.hsh" "b2c_dc/" "b2c_app_monitor_result.hsh" "appstore_log_tracker.hsh" "antispam_user_profile.hsh" "adsmob/" "access_account.hsh" ".git/" ".arcconfig" "../" "./")
+
+ ("/Users/liang/Documents/workspace/micodes/" (22284 40789 0 0) "xiaomi-common-tools/" "src/" "sg_reward/" "scala/" "miuicloud/" "miui-sec-web/" "miui-sec-thrift/" "miui-sec-study/" "miui-sec-spark/" "miui-sec-scala.iml" "miui-sec-parent/" "miui-sec-jd/" "miui-sec-hadoop/" "miui-sec-flow/" "miui-sec-api/" "miui-sec-admin/" "miui-flow-thrift/" "miui-flow-api/" "miui-flow-aop/" "miui-flow/" "mihome/" "mapreduce/" "HelloScala/" "hbase-table-creator/" "ext-5.1.0/" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/clouds/nutsCloud/liang/github/emacs/.emacs.d/config/" (22270 8562 0 0) "welcome-screen-config.el" "welcome-screen" "org-mode-config.el" "multi-term-mode-config.el" "mode-line-config.el" "lusty-explorer-config.el" "line-copy-config.el" "json-mode-config.el" "ido-mode-config.el" "color-theme-solarized-config.el" "../" "./")
+
+ ("/Users/liang/Notes/gtd/" (22275 8545 0 0) "refile.org" "mi.org" "mi.html" "inbox.org" "inbox.html" "book.org" "book.html" ".DS_Store" ".#mi.org" ".#book.org" "../" "./")
+
+ ("/Users/liang/Notes/" (22270 5802 0 0) "notes/" "gtd/" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Notes/work/" (22270 5419 0 0) "20160331.html" "../" "./")
+
+ ("/Users/liang/Notes/gdt/" (22269 54709 0 0) "mi.org" "../" "./")
+
+ ("/Users/liang/Documents/clouds/nutsCloud/liang/github/emacs/" (22268 41905 0 0) "README.md" ".git/" ".emacs.d/" ".emacs" ".DS_Store" "../" "./")
+
+ ("/Users/liang/.emacs.d/extend/org-html-themes/setup/" (22173 13227 0 0) "theme-readtheorg.setup" "theme-readtheorg-local.setup" "theme-bigblow.setup" "theme-bigblow-local.setup" "../" "./")
+
+ ("/Users/liang/.emacs.d/extend/org-html-themes/" (22173 13227 0 0) "styles/" "setup/" "readtheorg.png" "README.org" "README.html" "demo/" "bigblow.png" ".gitignore" "../" "./")
+
+ ("/Users/liang/.nutstore/" (21910 26085 0 0) "sigs/" "logs/" "dlcache/" "db/" ".single_flock" "../" "./")
+
+ ("/Users/liang/Documents/clouds/nutsCloud/" (22268 31599 0 0) "Xiaomi/" "liang/" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/clouds/nutsCloud/liang/" (22268 31621 0 0) "products/" "photos/" "notes/" "hanquan/" "github/" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/clouds/nutsCloud/liang/github/" (22070 61936 0 0) "zsh/" "tmux/" "PowerLine/" "ionic/" "emacs/" ".zshrc" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/clouds/nutsCloud/github/emacs/.emacs.d/config/" (22266 33532 0 0) "welcome-screen-config.el" "welcome-screen" "multi-term-mode-config.el" "mode-line-config.el" "lusty-explorer-config.el" "line-copy-config.el" "json-mode-config.el" "ido-mode-config.el" "color-theme-solarized-config.el" "../" "./")
+
+ ("/Users/liang/Documents/clouds/nutsCloud/github/emacs/" (22266 33098 0 0) "README.md" ".git/" ".emacs.d/" ".emacs" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/clouds/nutsCloud/github/emacs/.emacs.d/" (22212 8141 0 0) "url/" "tutorial/" "thumbs/" "SessionDesktop.el" "ido.last" "extend/" "config/" "auto-save-list/" "../" "./")
+
+ ("/etc/" (22255 21570 0 0) "zshrc" "zprofile" "xtab" "ttys" "telocation.idf" "syslog.conf" "sudoers" "sudo_lecture" "ssh/" "snmp/" "shells" "services" "security/" "rtadvd.conf" "rpc" "rmtab" "resolv.conf" "rc.netboot" "rc.common" "racoon/" "protocols" "profile" "ppp/" "postfix/" "php.ini.default-5.2-previous" "php.ini.default" "php-fpm.conf.default" "pf.os" "pf.conf" "pf.anchors/" "periodic/" "paths.d/" "paths" "passwd" "pam.d/" "openldap/" "ntp_opendirectory.conf" "ntp.conf" "ntp-restrict.conf" "notify.conf" "nfs.conf" "newsyslog.d/" "newsyslog.conf" "networks" "nanorc" "mvim" "master.passwd" "manpaths.d/" "manpaths" "man.conf" "mail.rc" "mach_init_per_user.d/" "mach_init_per_login_session.d/" "mach_init.d/" "locate.rc" "localtime" "krb5.keytab" "krb5.conf" "krb5-hadoop.conf" "kern_loader.conf" "irbrc" "hosts~orig" "hosts.equiv" "hosts" "h_miuisec.key" "group~previous" "group" "gettytab" "ftpusers" "ftpd.conf.default" "ftpd.conf" "fstab.hd" "find.codes" "emond.d/" "efax.rc" "dnsextd.conf" "defaults/" "cups/" "csh.logout" "csh.login" "csh.cshrc" "com.apple.screensharing.agent.launchd" "bootpd.plist" "bashrc_Apple_Terminal" "bashrc" "autofs.conf" "auto_master" "auto_home" "asl.conf" "asl/" "apache2/" "aliases.db" "aliases" "afpovertcp.cfg" "AFP.conf" "../" "./")
+
+ ("/Users/liang/Documents/clouds/nutsCloud/Xiaomi/接口文档/activity/20160207/" (22176 31194 0 0) "ZW_CMCC_30.txt" "WC_CMCC_30.txt" "WC_CMCC_1024.txt" "UNICOM_500.txt" "UNICOM_50.txt" "TELECOM_50.txt" "TELECOM_1024.txt" "RY_UNICOM_500.txt" "RY_UNICOM_50.txt" "RY_CMCC_30.txt" "GD_CMCC_30.txt" "DH_TELECOM_50.txt" "DH_TELECOM_1024.txt" "CONFIG_IN.txt" ".WC_CMCC_30.txt.swp" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/clouds/nutsCloud/Xiaomi/接口文档/activity/20160122/" (22174 62800 0 0) "ZW_CMCC_30.txt" "WC_CMCC_30.txt" "WC_CMCC_1024.txt" "UNICOM_500.txt" "UNICOM_50.txt" "TELECOM_50.txt" "TELECOM_1024.txt" "RY_UNICOM_500.txt" "RY_UNICOM_50.txt" "RY_CMCC_30.txt" "GD_CMCC_30.txt" "DH_TELECOM_50.txt" "DH_TELECOM_1024.txt" "CONFIG_IN.txt" ".WC_CMCC_30.txt.swp" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/clouds/nutsCloud/Xiaomi/接口文档/activity/" (22176 30775 0 0) "ZW_CMCC_30_IN.txt" "WC_CMCC_30_IN.txt" "WC_CMCC_1024_IN.txt" "UNICOM_50_IN.txt" "UNICOM_500_IN.txt" "TELECOM_50_IN.txt" "TELECOM_1024_IN.txt" "RY_UNICOM_50_IN.txt" "RY_CMCC_30_IN.txt" "GD_CMCC_30_IN.txt" "DH_TELECOM_50_IN.txt" "CONFIG.txt" "20160207/" "20160122/" "2015PRESENT/" "20151221/" "20151220/" "20151120/" "20151111/" "20151023/" "20151022/" "20151001/" "20150918/" "20150821/" "20150820/" "20150819/" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/clouds/nutsCloud/Xiaomi/接口文档/" (22172 19620 0 0) "高阳迅捷/" "证书/" "西城/" "联通和电信接口文档/" "移动梦网/" "百悟科技/" "瑞翼/" "流量购买原型图/" "江苏移动/" "江苏电信/" "比特峰/" "欧朋流量/" "查询/" "时科/" "支付/" "广州电信/" "天纵云联/" "大汉三通/" "大唐电信/" "后向流量/" "后台/" "卓望/" "北京移动/" "全国电信/" "中国联通/" "中国移动/" "zhushou/" "verify/" "MIUI流量运营平台/" "common/" "activity/" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/clouds/nutsCloud/Xiaomi/接口文档/activity/20151221/" (22135 27966 0 0) "ZW_CMCC_30.txt" "WC_CMCC_30.txt" "WC_CMCC_1024.txt" "UNICOM_500.txt" "UNICOM_50.txt" "TELECOM_50.txt" "TELECOM_1024.txt" "RY_UNICOM_500.txt" "RY_UNICOM_50.txt" "RY_CMCC_30.txt" "GD_CMCC_30.txt" "DH_TELECOM_50.txt" "DH_TELECOM_1024.txt" "CONFIG_IN.txt" ".WC_CMCC_30.txt.swp" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/clouds/nutsCloud/Xiaomi/" (22110 36406 0 0) "配置文档/" "统计文档/" "日志/" "接口文档/" "开发文档/" "工作文档/" "备份/" "专利/" "scripts/" "code/" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/clouds/nutsCloud/Xiaomi/接口文档/activity/20151111/" (22129 37091 0 0) "Untitled 1.spf" "TELECOM 电信.csv" "TELECOM 大汉.csv" "CMCC 西城.csv" "CMCC 天纵.csv" "CMCC 大汉.csv" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/clouds/nutsCloud/Xiaomi/接口文档/activity/20151120/" (22093 50525 0 0) "ZW_CMCC_30.txt" "WC_CMCC_30.txt" "WC_CMCC_1024.txt" "UNICOM_500.txt" "UNICOM_50.txt" "TELECOM_50.txt" "TELECOM_1024.txt" "RY_UNICOM_50.txt" "RY_CMCC_30.txt" "GD_CMCC_30.txt" "DH_TELECOM_50.txt" "CONFIG_IN.txt" ".WC_CMCC_30.txt.swp" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Pictures/" (22055 19906 0 0) "照片图库.photoslibrary/" "FN2V63AD2J.com.tencent.ScreenCapture2/" "com.tencent.ScreenCapture/" "_MG_8308-_rgw_web.jpg" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/clouds/nutsCloud/Xiaomi/接口文档/瑞翼/" (22076 28301 0 0) "产品列表.json" "~$91流量平台PartnerApi文档V1.6 - 副本.docx" "SDK.zip" "SDK/" "flowcenter-partnersdk-1.0.0.jar" "2491流量平台PartnerApi文档V1.6 - 副本.docx" "2491流量平台PartnerApi文档(订购检查).docx" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/clouds/nutsCloud/github/" (22070 61936 0 0) "zsh/" "tmux/" "PowerLine/" "ionic/" "emacs/" ".zshrc" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/workspace/micodes/miui-sec-thrift/src/main/resources/" (22011 63011 0 0) "zookeeper.properties" "traffic.thrift" "thrift.properties" "service.thrift" "server.service.level.properties" "redis.properties" "quartz.properties" "public.thrift" "policy.thrift" "log4j.xml" "jdbc.properties" "health.thrift" "harass.thrift" "h_miuisec.keytab" "context/" "com.xiaomi.miui.sec.thrift.SecurityCenterService.properties" "auth.thrift" "antivirus.thrift" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/clouds/nutsCloud/Xiaomi/接口文档/activity/20150819/" (22010 31481 0 0) "ZW_CMCC_30.txt" "WC_CMCC_30.txt" "UNICOM_50.txt" "TELECOM_50.txt" "RY_CMCC_30.txt" "GD_CMCC_30.txt" "CONFIG_IN.txt" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/clouds/nutsCloud/Xiaomi/接口文档/activity/20150918/" (22015 42072 0 0) "ZW_CMCC_30.txt" "WC_CMCC_30.txt" "UNICOM_50.txt" "TELECOM_50.txt" "RY_CMCC_30.txt" "GD_CMCC_30.txt" "CONFIG_IN.txt" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/clouds/nutsCloud/Xiaomi/接口文档/activity/20151001/" (22015 27841 0 0) "ZW_CMCC_30.txt" "WC_CMCC_30.txt" "UNICOM_50.txt" "TELECOM_50.txt" "RY_CMCC_30.txt" "GD_CMCC_30.txt" "CONFIG_IN.txt" ".WC_CMCC_30.txt.swp" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/clouds/nutsCloud/tmp/" (21981 21555 0 0) "添加红米2A配置.sql" "小米鉴定.txt" "卓望移动订购失败订单其实是订购成功的.sql" "卓望IP地址非法.sql" "中国联通20150619重订购.sql" "zwcc.sql" "UNICOM_REDIS.txt" "unicom.sql" "tmp4.txt" "tmp3.txt" "tmp2.txt" "tmp1.txt" "TELECOM_REDIS.txt" "rsapublickey.pem" "rsaprivatepkcs8.pem" "rsaprivatekey.pem" "main.txt" "index.html" "flow_order_product_normal.sql" "CONFIG_HASH.txt" "CMCC_REDIS.txt" "aaa2.txt" "aaa1.txt" "618异常订单处理.sql" "611-615退款失败订单处理.sql" "2015年上线时科联通4省省内包.sql" "2015年7月小米互娱活动.json" "2015年7月9日瑞翼基础产品.sql" "2015年7月1日处理0629退款失败订单.sql" "2015年7月14日添加梦网移动产品.sql" "2015年7月10日异常订单处理.sql" "2015年6月份商店组活动.csv" "2015年6月19日应用商店参与活动用户统计1.csv" "2015年6月19日应用商店参与活动用户统计.csv" "2015年6月19日商店组活动参与人数统计.csv" "2015年6月19日商店组活动CMCC未领取.csv" "2015年5月份广东移动订购成功订单统计.csv" "2015年5月份广东移动订购失败订单统计.csv" "2015年5月份商店组活动.csv" "2015年5月份中国联通订购成功订单统计.csv" "2015年5月份中国联通订购失败订单统计.csv" "2015年4月份商店组活动UNICOM.csv" "2015年4月份商店组活动TELECOM.csv" "2015年4月份商店组活动CMCC.csv" "2015年4月份商店组活动.csv" "20150619_bingo_xiaomiIds/" "20150619_APPSTORE.txt" "20150619.json" "20150520.json" "20150424.json" "2.html" "111.sql" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Desktop/tmp/" (21981 21555 0 0) "添加红米2A配置.sql" "小米鉴定.txt" "卓望移动订购失败订单其实是订购成功的.sql" "卓望IP地址非法.sql" "中国联通20150619重订购.sql" "zwcc.sql" "UNICOM_REDIS.txt" "unicom.sql" "tmp4.txt" "tmp3.txt" "tmp2.txt" "tmp1.txt" "TELECOM_REDIS.txt" "rsapublickey.pem" "rsaprivatepkcs8.pem" "rsaprivatekey.pem" "main.txt" "index.html" "flow_order_product_normal.sql" "CONFIG_HASH.txt" "CMCC_REDIS.txt" "aaa2.txt" "aaa1.txt" "618异常订单处理.sql" "611-615退款失败订单处理.sql" "2015年上线时科联通4省省内包.sql" "2015年7月小米互娱活动.json" "2015年7月9日瑞翼基础产品.sql" "2015年7月1日处理0629退款失败订单.sql" "2015年7月14日添加梦网移动产品.sql" "2015年7月10日异常订单处理.sql" "2015年6月份商店组活动.csv" "2015年6月19日应用商店参与活动用户统计1.csv" "2015年6月19日应用商店参与活动用户统计.csv" "2015年6月19日商店组活动参与人数统计.csv" "2015年6月19日商店组活动CMCC未领取.csv" "2015年5月份广东移动订购成功订单统计.csv" "2015年5月份广东移动订购失败订单统计.csv" "2015年5月份商店组活动.csv" "2015年5月份中国联通订购成功订单统计.csv" "2015年5月份中国联通订购失败订单统计.csv" "2015年4月份商店组活动UNICOM.csv" "2015年4月份商店组活动TELECOM.csv" "2015年4月份商店组活动CMCC.csv" "2015年4月份商店组活动.csv" "20150619_bingo_xiaomiIds/" "20150619_APPSTORE.txt" "20150619.json" "20150520.json" "20150424.json" "2.html" "111.sql" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/clouds/nutsCloud/work/emacs/.emacs.d/config/" (21933 44085 0 0) "welcome-screen-config.el" "welcome-screen" "multi-term-mode-config.el" "mode-line-config.el" "lusty-explorer-config.el" "line-copy-config.el" "ido-mode-config.el" "color-theme-solarized-config.el" "../" "./")
+
+ ("/Users/liang/Documents/clouds/nutsCloud/work/emacs/.emacs.d/" (21932 38804 0 0) "url/" "tutorial/" "thumbs/" "SessionDesktop.el" "ido.last" "extend/" "config/" "auto-save-list/" "../" "./")
+
+ ("/Users/liang/Documents/clouds/nutsCloud/work/emacs/" (21932 39624 0 0) "README.md" ".git/" ".emacs.d/" ".emacs" "../" "./")
+
+ ("/Users/liang/Documents/clouds/nutsCloud/work/emacs/.emacs.d/extend/" (21932 27203 0 0) "multi-term/" "markdown-mode/" "lusty-explorer/" "csv-mode/" "color-theme-solarized/" "color-theme-6.6.0/" "../" "./")
+
+ ("/Users/liang/Documents/clouds/百度云同步盘/" (21910 34027 0 0) "开发环境/" "Icon
+" "Docker环境/" ".DS_Store" ".BDYunCache/" "../" "./")
+
+ ("/Users/liang/Documents/clouds/\347\231\276\345\272\246\344\272\221\345\220\214\346\255\245\347\233\230/" (21910 34027 0 0) "开发环境/" "Icon
+" "Docker环境/" ".DS_Store" ".BDYunCache/" "../" "./")
+
+ ("/Users/liang/Documents/clouds/\347\231\276\345\272\246\344\272\221\345\220\214\346\255\245\347\233\230/Docker\347\216\257\345\242\203/" (21927 44898 0 0) "开发工具/" "常用镜像/" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/clouds/\347\231\276\345\272\246\344\272\221\345\220\214\346\255\245\347\233\230/Docker\347\216\257\345\242\203/\345\270\270\347\224\250\351\225\234\345\203\217/" (21927 44898 0 0) "ubuntu_14.04_6d4946999d4f.tar" "thrift_latest_585b715d01ec.tar" "spotify_kafka_latest_2c067ab40be4.tar" "spotify_kafka_latest.tar" "redis_latest_0ecdc1a8a4c9.tar" "mongo_latest_66b43e3cae49.tar" "memcached_latest_3a51cc675c6c.tar" ".DS_Store" "../" "./")
+
+ ("/Users/liang/.oh-my-zsh/" (21910 31887 0 0) "tools/" "themes/" "templates/" "README.markdown" "plugins/" "oh-my-zsh.sh" "MIT-LICENSE.txt" "log/" "lib/" "custom/" "cache/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/liang/Documents/clouds/nutsCloud/work/" (21910 32103 0 0) "zsh/" "tmp6.txt" "tmp5.txt" "tmp4.txt" "tmp3.txt" "tmp2.txt" "tmp.txt" "order2.csv" "order.csv" "flow_order_product_base.csv" "flow_order_bill_daily_create.sql" "emacs/" "APPSTORE" "act3.txt" "act2.txt" "act.txt" "1111.txt/" "../" "./")
+
+ ("/Users/liang/Documents/clouds/" (21919 26289 0 0) "百度云同步盘/" "SecServer/" "nutsCloud/" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/workspace/micodes/miui-sec-thrift/src/main/java/com/xiaomi/miui/sec/thrift/" (21906 20383 0 0) "ThriftMain.java" "DefaultSecurityCenterService.java" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/workspace/micodes/miui-sec-thrift/src/main/java/com/xiaomi/miui/sec/" (21906 19045 0 0) "thrift/" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/workspace/micodes/miui-sec-thrift/src/main/java/com/xiaomi/miui/" (21906 19040 0 0) "sec/" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/workspace/micodes/miui-sec-thrift/src/main/java/com/xiaomi/" (21906 19040 0 0) "miui/" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/workspace/micodes/miui-sec-thrift/src/main/java/com/" (21906 19040 0 0) "xiaomi/" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/workspace/micodes/miui-sec-thrift/src/main/java/" (21906 19040 0 0) "com/" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/bin/resin-pro-4.0.44/" (21913 64624 0 0) "win64/" "win32/" "webapps/" "webapp-jars/" "setup.exe" "resin.exe" "resin-data/" "README" "project-jars/" "modules/" "Makefile.in" "Makefile.am" "licenses/" "LICENSE" "lib/" "keys/" "init.d/" "ext-lib/" "endorsed/" "doc/" "contrib/" "configure.ac" "configure" "conf/" "compat/" "bin/" "automake/" "aclocal.m4" "../" "./")
+
+ ("/Users/liang/Documents/NutsCloud/tmp/" (21908 57332 0 0) "小米鉴定.txt" "卓望移动订购失败订单其实是订购成功的.sql" "卓望IP地址非法.sql" "中国联通20150619重订购.sql" "zwcc.sql" "UNICOM_REDIS_OUT.txt" "UNICOM_REDIS.txt" "unicom.sql" "tmp2.txt" "tmp1.txt" "TELECOM_REDIS_OUT.txt" "TELECOM_REDIS.txt" "rsapublickey.pem" "rsaprivatepkcs8.pem" "rsaprivatekey.pem" "flow_order_product_normal.sql" "CONFIG_HASH.txt" "CMCC_REDIS_OUT.txt" "CMCC_REDIS.txt" "618异常订单处理.sql" "611-615退款失败订单处理.sql" "2015年7月1日处理0629退款失败订单.sql" "2015年6月19日应用商店参与活动用户统计1.csv" "2015年6月19日应用商店参与活动用户统计.csv" "2015年6月19日商店组活动参与人数统计.csv" "2015年6月19日商店组活动CMCC未领取.csv" "2015年5月份广东移动订购成功订单统计.csv" "2015年5月份广东移动订购失败订单统计.csv" "2015年5月份中国联通订购成功订单统计.csv" "2015年5月份中国联通订购失败订单统计.csv" "20150619_bingo_xiaomiIds/" "20150619_APPSTORE.txt" ".DS_Store" ".#添加红米2A配置.sql" "../" "./")
+
+ ("/Users/liang/Documents/我的坚果云/tmp/" (21904 50148 0 0) "redis_import.py" "aaa.sql" "2015年6月27日重订购联通失败订单.sql" "2015年6月26日处理6.14-15退款失败订单.txt" "../" "./")
+
+ ("/Users/liang/Documents/workspace/micodes/miui-sec-thrift/src/main/" (21906 19040 0 0) "resources/" "java/" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/workspace/micodes/miui-sec-thrift/src/" (21906 19040 0 0) "test/" "main/" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/workspace/micodes/miui-sec-thrift/" (21906 19035 0 0) "src/" "sec-thrift.iml" "release.sh" "pom.xml" "deploy/" "build.sh" ".idea/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/NutsCloud/" (21900 60204 0 0) "流量/" "手机文件/" "宝宝类收益/" "可疑数据分析/" "个人/" "xiwuhuan/" "Xiaomi/" "xianmi/" "wx/" "work/" "tmp/" "s-card/" "ntc/" "note/" "hanquan/" "future/" "books/" "bbl/" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/docker/tomcat7_jdk1.6/" (21899 63696 0 0) "run.sh" "jdk/" "Dockerfile" "create_tomcat_admin_user.sh" "apache-tomcat-7.0.56/" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Desktop/20150619_bingo_xiaomiIds/" (21900 42223 0 0) "UNICOM.csv" "TELECOM.csv" "CMCC.csv" "20150619_UNICOM_DE.csv" "20150619_TELECOM_DE.csv" "20150619_CMCC_DE.csv" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/docker/apache_ubuntu/" (21899 54877 0 0) "sample/" "run.sh" "Dockerfile" "../" "./")
+
+ ("/Users/liang/Documents/docker/" (21899 61567 0 0) "tomcat7_jdk1.6/" "sshd_ubuntu/" "site/" "apache_ubuntu/" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/docker/sshd_ubuntu/" (21899 48982 0 0) "run.sh" "Dockerfile" "authorized_keys" "../" "./")
+
+ ("/Users/liang/Bin/redis-3.0.2/" (21872 7164 0 0) "utils/" "tests/" "src/" "sentinel.conf" "runtest-sentinel" "runtest-cluster" "runtest" "redis.conf" "README" "MANIFESTO" "Makefile" "INSTALL" "deps/" "COPYING" "CONTRIBUTING" "BUGS" "00-RELEASENOTES" ".gitignore" "../" "./")
+
+ ("/Users/liang/Bin/" (21899 28214 0 0) "Sencha/" "scala-2.11.6/" "resin-pro-4.0.44/" "redis-3.0.2/" "apache-maven-3.3.3/" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Downloads/osx-installer-master/" (21890 16338 0 0) "uninstall.sh" "README.md" "mpkg/" "Makefile" "makedmg.sh" "LICENSE" "Dockerfile" ".gitignore" "../" "./")
+
+ ("/Users/liang/Documents/我的坚果云/tmp/20150619_bingo_xiaomiIds/" (21898 26821 0 0) "UNICOM.csv" "TELECOM.csv" "CMCC.csv" ".DS_Store" "../" "./")
+
+ ("/Users/liang/Documents/workspace/micodes/miui-flow-parent/beans/" (21898 7738 0 0) "pom.xml" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
