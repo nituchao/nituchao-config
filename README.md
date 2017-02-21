@@ -7,3 +7,6 @@
 在Mac OS上默然shell切换成zsh，配置文件用的oh-my-zsh。
 
 该配置文件增加了JDK, Hadoop等环境的配置，同时增加了很多实用的Alias。
+
+## Tmux
+一个中断下的多Session管理工具，支持分屏，多窗口，session保持，多屏同步操作等功能。
