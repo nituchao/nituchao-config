@@ -1,0 +1,17 @@
+127.0.0.1:8080 {
+	gzip
+	root /data/wwwroot/www.nituchao.com
+	log /var/log/caddy/access.log
+	git {
+		repo https://github.com/nituchao/nituchao.com.git
+		path /data/wwwcode/github_nituchao
+		hook /deploy nituchao-secret-password
+		then rm -rf /data/wwwroot/www.nituchao.com/
+		then cp -r /data/wwwcode/github_nituchao/public/ /data/wwwroot/www.nituchao.com/
+		interval 3600
+	}
+	errors {
+		log /var/log/caddy/error.log
+		404 404.html
+	}
+}
